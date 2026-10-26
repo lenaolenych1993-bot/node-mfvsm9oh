@@ -1,0 +1,21 @@
+{
+  "expo": {
+    "name": "Lumili",
+    "slug": "lumili",
+    "version": "0.2.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "backgroundColor": "#F7F4FA",
+    "ios": {
+      "supportsTablet": false
+    },
+    "android": {},
+    "web": {
+      "name": "Lumili"
+    },
+    "plugins": [
+      "expo-router"
+    ],
+    "scheme": "lumili"
+  }
+}
